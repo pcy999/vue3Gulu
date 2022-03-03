@@ -1,0 +1,15 @@
+/*
+ * @Description:ts配置
+ * @Autor: pcy
+ * @Date: 2022-03-03 16:50:31
+ * @LastEditTime: 2022-03-03 16:50:45
+ */
+ {
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": false,
+    "jsx": "preserve",
+    "moduleResolution": "node"
+  }
+}
