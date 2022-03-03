@@ -10,11 +10,6 @@
 </script>
 
 <template>
-  <div>
-    导航栏|
-    <router-link to="/">1</router-link>|
-    <router-link to="/111">2</router-link>
-  </div>
   <router-view />
 </template>
 
